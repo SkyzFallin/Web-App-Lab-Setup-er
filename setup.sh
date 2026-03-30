@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # ============================================================================
 #  WebApp Pentest Lab Setup Script
-#  Author: WC Security (wescastle.com)
+#  Author: SkyzFallin
 #  Repo:   github.com/SkyzFallin/webapp-pentest-lab
 #  
 #  Deploys a complete web application penetration testing lab environment
@@ -44,7 +44,7 @@ banner() {
     echo -e "${CYAN}"
     echo "╔══════════════════════════════════════════════════════════════╗"
     echo "║          WebApp Pentest Lab Setup Script v1.0               ║"
-    echo "║          WC Security — wescastle.com                        ║"
+    echo "║          SkyzFallin                        ║"
     echo "╚══════════════════════════════════════════════════════════════╝"
     echo -e "${NC}"
 }
