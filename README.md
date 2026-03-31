@@ -1,6 +1,15 @@
-# Web-App-Lab-Setup-er
+<p align="center">
+  <img src="banner.svg" alt="Web-App-Lab-Setup-er Banner" width="100%"/>
+</p>
 
-[![Web-App-Lab-Setup-er](banner.svg)](https://github.com/SkyzFallin/Web-App-Lab-Setup-er)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Pentest](https://img.shields.io/badge/Pentest-FF0000?style=flat-square&logo=hackthebox&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+![Author](https://img.shields.io/badge/Author-SkyzFallin-ce9178?style=flat-square&logo=github&logoColor=white)
+
+# Web-App-Lab-Setup-er
 
 One-command setup for a complete web application penetration testing lab — deploys vulnerable Docker targets, installs scanning tools, and drops wordlists. Ready to hack in minutes.
 
